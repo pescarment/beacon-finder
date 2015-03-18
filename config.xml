@@ -12,15 +12,9 @@
     </author>
 
 	<platform name="ios">
-    <!-- ios-specific elements -->
+    		<!-- ios-specific elements -->
 	</platform>
 	
 	<gap:plugin name="com.phonegap.plugins.barcodescanner" version="2.0.0" />
 
-    <content src="index.html" />
-    <access origin="*" />
-    <preference name="DisallowOverscroll" value="true" />
-
-
-	
 </widget>
