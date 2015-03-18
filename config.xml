@@ -13,7 +13,7 @@
     <content src="index.html" />
     <access origin="*" />
     <preference name="DisallowOverscroll" value="true" />
-	<gap:plugin name="pl.makingwaves.estimotebeacons" source="plugins.cordova.ioversion" version="0.6.0" />
+	<gap:plugin name="pl.makingwaves.estimotebeacons" source="plugins.cordova.io" version="0.6.0" />
 
 	
 </widget>
