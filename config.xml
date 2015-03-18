@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PG barcode</name>
+    <name>Beacon Finder</name>
 
     <description>
-        Sample PhoneGap barcode app. 
+        Sample PhoneGap Estimote Beacon Finder app. 
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
