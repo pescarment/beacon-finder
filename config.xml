@@ -10,10 +10,13 @@
     <author email="mikael.kindborg@evothings.com" href="http://evothings.com">
         Mikael Kindborg
     </author>
+
+	<gap:plugin name="pl.makingwaves.estimotebeacons" source="plugins.cordova.io" version="0.6.0" />
+
     <content src="index.html" />
     <access origin="*" />
     <preference name="DisallowOverscroll" value="true" />
-	<gap:plugin name="pl.makingwaves.estimotebeacons" source="plugins.cordova.io" version="0.6.0" />
+
 
 	
 </widget>
