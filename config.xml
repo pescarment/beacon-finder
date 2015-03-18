@@ -5,7 +5,7 @@
 	xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>BeaconFinder</name>
     <description>
-        Estimote Beacon demo app.
+        Estimote Beacon demo app for PhoneGap.
     </description>
     <author email="mikael.kindborg@evothings.com" href="http://evothings.com">
         Mikael Kindborg
@@ -13,4 +13,7 @@
     <content src="index.html" />
     <access origin="*" />
     <preference name="DisallowOverscroll" value="true" />
+
+	<gap:plugin name="pl.makingwaves.estimotebeacons" version="0.6.0" />
+	
 </widget>
